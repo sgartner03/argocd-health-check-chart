@@ -1,6 +1,6 @@
 apiVersion: argoproj.io/v1alpha1
 kind: EventBus
-  name: default
+  name: test
   namespace: eventbus-health-check
 spec:
   jetstream:
